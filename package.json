@@ -1,0 +1,27 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "Create an automation script to test the Kerv Digital website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amocrii/Cypress-automation.git"
+  },
+  "author": "Alin Mocrii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amocrii/Cypress-automation/issues"
+  },
+  "homepage": "https://github.com/amocrii/Cypress-automation#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^10.11.0",
+    "cypress-mochawesome-reporter": "^3.2.3"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
